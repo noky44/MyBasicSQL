@@ -1,0 +1,2 @@
+# MyBasicSQL
+Another training repository
